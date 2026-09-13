@@ -1,52 +1,51 @@
 #EXTM3U
-
 # ==========================================
 # 🎵 SUNDAY LOVE SONGS
 # ==========================================
 #EXTINF:-1 group-title="Música" tvg-logo="https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/Sunday%20Love%20Songs%20%28Dj%20Ze%20Roberto%29%20Always%20%26%20Forever.jpeg", [SERIE] Sunday Love Songs
 #SINOPSE: Sunday Love Songs - Coletânea de músicas românticas para relaxar e curtir.
-#EPISODIO: S01E01|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/01.%20Katrina%20-%20Love%20Shine%20A%20Light.mp3
-#EPISODIO: S01E02|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/02.%20Sinitta%20-%20Toyboy.mp3
-#EPISODIO: S01E03|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/03.%20Supremes%20-%20You%20Can%C2%B4%20T%20Hurry%20Love.mp3
-#EPISODIO: S01E04|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/04.%20Chic%20-%20Upside%20Down%20%28Live%29.mp3
-#EPISODIO: S01E05|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/05.%20Limahl%20-%20Too%20Shy.mp3
-#EPISODIO: S01E06|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/06.%20Level%2042%20-%20Something%20About%20You%20%28Live%29.mp3
-#EPISODIO: S01E07|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/07.%20A%20Flock%20Of%20Seagulls%20-%20I%20Ran.mp3
-#EPISODIO: S01E08|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/08.%20Wax%20-%20Bridge%20To%20Your%20Heart%20%28Live%29.mp3
-#EPISODIO: S01E09|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/09.%20Debbie%20Gibson%20-%20Shake%20Your%20Love.mp3
-#EPISODIO: S01E10|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/10.%20Gloria%20Gaynor%20-%20I%20Am%20What%20I%20Am.mp3
-#EPISODIO: S01E11|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/11.%20Chaka%20Khan%20-%20I%20Feel%20For%20You%20%28Live%29.mp3
-#EPISODIO: S01E12|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/12.%20Denny%20Laine%20-%20Silly%20Love%20Songs.mp3
-#EPISODIO: S01E13|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/13.%20Blessid%20Union%20Of%20Souls%20-%20I%20Believe%20%28Live%29.mp3
-#EPISODIO: S01E14|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/14.%20Marvin%20Gaye%20-%20Joy%20%28Live%29.mp3
-#EPISODIO: S01E15|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/15.%20Supremes%20-%20The%20Happening.mp3
-#EPISODIO: S01E16|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/16.%20Cool%20Notes%20-%20House%20Of%20Love.mp3
-#EPISODIO: S01E17|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/17.%20Heatwave%20-%20Share%20My%20Love.mp3
-#EPISODIO: S01E18|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/18.%20Jesse%20Green%20-%20Nice%C2%B4N%20Slow.mp3
-#EPISODIO: S01E19|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/19.%20Mr.%20Big%20-%20Wild%20World%20%28live%29.mp3
-#EPISODIO: S01E20|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/20.%20Oliver%20Cheatham%20%26%20Jocelyn%20Brown%20-%20Turn%20Out%20The%20Lights.mp3
+#EPISODIO: Katrina - Love Shine A Light|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/01.%20Katrina%20-%20Love%20Shine%20A%20Light.mp3
+#EPISODIO: Sinitta - Toyboy|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/02.%20Sinitta%20-%20Toyboy.mp3
+#EPISODIO: Supremes - You Can't Hurry Love|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/03.%20Supremes%20-%20You%20Can%C2%B4%20T%20Hurry%20Love.mp3
+#EPISODIO: Chic - Upside Down (Live)|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/04.%20Chic%20-%20Upside%20Down%20%28Live%29.mp3
+#EPISODIO: Limahl - Too Shy|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/05.%20Limahl%20-%20Too%20Shy.mp3
+#EPISODIO: Level 42 - Something About You (Live)|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/06.%20Level%2042%20-%20Something%20About%20You%20%28Live%29.mp3
+#EPISODIO: A Flock Of Seagulls - I Ran|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/07.%20A%20Flock%20Of%20Seagulls%20-%20I%20Ran.mp3
+#EPISODIO: Wax - Bridge To Your Heart (Live)|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/08.%20Wax%20-%20Bridge%20To%20Your%20Heart%20%28Live%29.mp3
+#EPISODIO: Debbie Gibson - Shake Your Love|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/09.%20Debbie%20Gibson%20-%20Shake%20Your%20Love.mp3
+#EPISODIO: Gloria Gaynor - I Am What I Am|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/10.%20Gloria%20Gaynor%20-%20I%20Am%20What%20I%20Am.mp3
+#EPISODIO: Chaka Khan - I Feel For You (Live)|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/11.%20Chaka%20Khan%20-%20I%20Feel%20For%20You%20%28Live%29.mp3
+#EPISODIO: Denny Laine - Silly Love Songs|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/12.%20Denny%20Laine%20-%20Silly%20Love%20Songs.mp3
+#EPISODIO: Blessid Union Of Souls - I Believe (Live)|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/13.%20Blessid%20Union%20Of%20Souls%20-%20I%20Believe%20%28Live%29.mp3
+#EPISODIO: Marvin Gaye - Joy (Live)|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/14.%20Marvin%20Gaye%20-%20Joy%20%28Live%29.mp3
+#EPISODIO: Supremes - The Happening|https://ia601005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/15.%20Supremes%20-%20The%20Happening.mp3
+#EPISODIO: Cool Notes - House Of Love|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/16.%20Cool%20Notes%20-%20House%20Of%20Love.mp3
+#EPISODIO: Heatwave - Share My Love|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/17.%20Heatwave%20-%20Share%20My%20Love.mp3
+#EPISODIO: Jesse Green - Nice'N Slow|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/18.%20Jesse%20Green%20-%20Nice%C2%B4N%20Slow.mp3
+#EPISODIO: Mr. Big - Wild World (Live)|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/19.%20Mr.%20Big%20-%20Wild%20World%20%28live%29.mp3
+#EPISODIO: Oliver Cheatham & Jocelyn Brown - Turn Out The Lights|https://ia801005.us.archive.org/0/items/12.-denny-laine-silly-love-songs/20.%20Oliver%20Cheatham%20%26%20Jocelyn%20Brown%20-%20Turn%20Out%20The%20Lights.mp3
 # ==========================================
 # 🎵 CLASSIC TEARJERKERS
 # ==========================================
 #EXTINF:-1 group-title="Música" tvg-logo="https://ia802805.us.archive.org/19/items/02.-the-chi-lites-have-you-seen-her_202511/Classic%20Tearjerkers%20%28Dj%20Ze%20Roberto%29%20Always%20%26%20Forever.jpeg", [SERIE] Classic Tearjerkers
 #SINOPSE: Classic Tearjerkers - Coletânea de músicas clássicas e emocionantes para relaxar e se emocionar.
-#EPISODIO: S01E01|https://ia902805.us.archive.org/19/items/02.-the-chi-lites-have-you-seen-her_202511/01.%20Charlie%20Rich%20-%20The%20Most%20Beautiful%20Girl.mp3
-#EPISODIO: S01E02|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/02.%20The%20Chi-Lites%20-%20Have%20You%20Seen%20Her.mp3
-#EPISODIO: S01E03|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/03.%20Al%20Jarreau%20-%20Ain%C2%B4T%20No%20Sunshine.mp3
-#EPISODIO: S01E04|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/04.%20Herman%C2%B4S%20Hermits%20-%20No%20Milk%20Today.mp3
-#EPISODIO: S01E05|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/05.%20The%20Zombies%20-%20She%C2%B4S%20Not%20There.mp3
-#EPISODIO: S01E06|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/06.%20Lesley%20Gore%20-%20It%C2%B4S%20My%20Party.mp3
-#EPISODIO: S01E07|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/07.%20Dave%20Berry%20-%20The%20Crying%20Game.mp3
-#EPISODIO: S01E08|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/08.%20The%20Cascades%20-%20Rhythm%20Of%20The%20Rain.mp3
-#EPISODIO: S01E09|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/09.%20The%20Everly%20Brothers%20-%20Bye%20Bye%20Love.mp3
-#EPISODIO: S01E10|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/10.%20Guy%20Mitchell%20-%20Singing%20The%20Blues.mp3
-#EPISODIO: S01E11|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/11.%20Roy%20Orbison%20-%20Only%20The%20Lonely.mp3
-#EPISODIO: S01E12|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/12.%20Barbara%20George%20-%20I%20Know%20%28You%20Don%C2%B4T%20Love%20Me%20No%20More%29.mp3
-#EPISODIO: S01E13|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/13.%20Shirley%20Bassey%20-%20What%20Now%20My%20Love.mp3
-#EPISODIO: S01E14|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/14.%20Brenda%20Lee%20-%20I%C2%B4M%20Sorry.mp3
-#EPISODIO: S01E15|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/15.%20Del%20Shannon%20-%20Runaway.mp3
-#EPISODIO: S01E16|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/16.%20Little%20Anthony%20%26%20The%20Imperials%20-%20Tears%20On%20My%20Pillow.mp3
-#EPISODIO: S01E17|https://ia902805.us.archive.org/19/items/02.-the-chi-lites-have-you-seen-her_202511/17.%20The%20Delfonics%20-%20Did%C2%B4Nt%20I%20Blow%20Your%20Mind%20This%20Time.mp3
-#EPISODIO: S01E18|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/18.%20Bobby%20Vee%20-%20Take%20Good%20Care%20Of%20My%20Baby%20%28Live%29.mp3
-#EPISODIO: S01E19|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/19.%20Buddy%20Holly%20-%20That%C2%B4Ll%20Be%20The%20Day.mp3
-#EPISODIO: S01E20|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/20.%20Dionne%20Warwick%20-%20Walk%20On%20By%20%28Live%29.mp3
+#EPISODIO: Charlie Rich - The Most Beautiful Girl|https://ia902805.us.archive.org/19/items/02.-the-chi-lites-have-you-seen-her_202511/01.%20Charlie%20Rich%20-%20The%20Most%20Beautiful%20Girl.mp3
+#EPISODIO: The Chi-Lites - Have You Seen Her|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/02.%20The%20Chi-Lites%20-%20Have%20You%20Seen%20Her.mp3
+#EPISODIO: Al Jarreau - Ain't No Sunshine|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/03.%20Al%20Jarreau%20-%20Ain%C2%B4T%20No%20Sunshine.mp3
+#EPISODIO: Herman's Hermits - No Milk Today|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/04.%20Herman%C2%B4S%20Hermits%20-%20No%20Milk%20Today.mp3
+#EPISODIO: The Zombies - She's Not There|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/05.%20The%20Zombies%20-%20She%C2%B4S%20Not%20There.mp3
+#EPISODIO: Lesley Gore - It's My Party|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/06.%20Lesley%20Gore%20-%20It%C2%B4S%20My%20Party.mp3
+#EPISODIO: Dave Berry - The Crying Game|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/07.%20Dave%20Berry%20-%20The%20Crying%20Game.mp3
+#EPISODIO: The Cascades - Rhythm Of The Rain|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/08.%20The%20Cascades%20-%20Rhythm%20Of%20The%20Rain.mp3
+#EPISODIO: The Everly Brothers - Bye Bye Love|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/09.%20The%20Everly%20Brothers%20-%20Bye%20Bye%20Love.mp3
+#EPISODIO: Guy Mitchell - Singing The Blues|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/10.%20Guy%20Mitchell%20-%20Singing%20The%20Blues.mp3
+#EPISODIO: Roy Orbison - Only The Lonely|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/11.%20Roy%20Orbison%20-%20Only%20The%20Lonely.mp3
+#EPISODIO: Barbara George - I Know (You Don't Love Me No More)|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/12.%20Barbara%20George%20-%20I%20Know%20%28You%20Don%C2%B4T%20Love%20Me%20No%20More%29.mp3
+#EPISODIO: Shirley Bassey - What Now My Love|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/13.%20Shirley%20Bassey%20-%20What%20Now%20My%20Love.mp3
+#EPISODIO: Brenda Lee - I'm Sorry|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/14.%20Brenda%20Lee%20-%20I%C2%B4M%20Sorry.mp3
+#EPISODIO: Del Shannon - Runaway|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/15.%20Del%20Shannon%20-%20Runaway.mp3
+#EPISODIO: Little Anthony & The Imperials - Tears On My Pillow|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/16.%20Little%20Anthony%20%26%20The%20Imperials%20-%20Tears%20On%20My%20Pillow.mp3
+#EPISODIO: The Delfonics - Didn't I Blow Your Mind This Time|https://ia902805.us.archive.org/19/items/02.-the-chi-lites-have-you-seen-her_202511/17.%20The%20Delfonics%20-%20Did%C2%B4Nt%20I%20Blow%20Your%20Mind%20This%20Time.mp3
+#EPISODIO: Bobby Vee - Take Good Care Of My Baby (Live)|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/18.%20Bobby%20Vee%20-%20Take%20Good%20Care%20Of%20My%20Baby%20%28Live%29.mp3
+#EPISODIO: Buddy Holly - That'll Be The Day|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/19.%20Buddy%20Holly%20-%20That%C2%B4Ll%20Be%20The%20Day.mp3
+#EPISODIO: Dionne Warwick - Walk On By (Live)|https://dn720705.ca.archive.org/0/items/02.-the-chi-lites-have-you-seen-her_202511/20.%20Dionne%20Warwick%20-%20Walk%20On%20By%20%28Live%29.mp3
